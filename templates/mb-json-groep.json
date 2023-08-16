@@ -1,0 +1,46 @@
+{
+  "mau": {
+    "usergroepnaam": "Modelautoriteit",
+    "beschrijving": "De Modelautoriteit heeft toegang tot alle modellen in de Modellenbibliotheek en ook toegang heeft tot specifieke functies die alleen de Modelautoriteit mag uitvoeren (zoals het publiceren van een model en het beheren van het kennisgebiedenregister)",
+    "usermenu": {
+      "dashboard": "Dashboard",
+      "download": "Download model",
+      "upload": "Upload model",
+      "toetsingslogboek_": "Toetsingslogboek (_)"
+    }
+  },
+  "das": {
+    "usergroepnaam": "Datastewart",
+    "beschrijving": "De Datastewards hebben toegang tot het beheren van de gegevens van de aan hen toegekende kennisgebieden in het kennisgebiedenregister)",
+    "usermenu": {
+      "download": "Download model"
+    }
+  },
+  "mod": {
+    "usergroepnaam": "Modelleur",
+    "beschrijving": "De Modelleurs die een model kunnen aanbieden aan de Modelautoriteit en vervolgens toegang hebben tot dit model, zelfs als het nog niet is gepubliceerd. Hiermee hebben zij ook toegang tot de geautomatiseerde controles die in de Modellenbibliotheek beschikbaar zijn voor dat specifieke model. Niet alleen degene die een model heeft aangeboden mag bij dit model, maar ook eventueel andere betrokkenen bij dit model (zoals: andere modelleurs die hebben meegeholpen of domeinspecialisten die betrokken zij bij het maken van het model)",
+    "usermenu": {
+      "download": "Download model",
+      "upload": "Upload model"
+    }
+  },
+  "bmw": {
+    "usergroepnaam": "Belastingdienstmedewerker",
+    "beschrijving": "Belastingdienstmedewerkers die de kennis uit een gepubliceerd model willen bekijken en/of gebruiken. Dit kunnen interne of externe medewerkers zijn, maar hebben altijd wel toegang tot het Belastingdienstnetwerk. Deze gebruikersgroep mag bij alle gepubliceerde modellen (maar niet bij de modellen die nog niet gepubliceerd zijn)",
+    "usermenu": {
+      "dashboard": "Dashboard"
+    }
+  },
+  "beh": {
+    "usergroepnaam": "Beheerder",
+    "beschrijving": "De beheerder heeft toegang tot de functies welke een gebruiksergroep aan een gebruiker kunnen toekennen, wijzigen en/of verwijderen.",
+    "usermenu": {
+      "dashboard": "Dashboard",
+      "download": "Download model",
+      "upload": "Upload model",
+      "toetsingslogboek_": "Toetsingslogboek (_)",
+      "gebruikers": "Bewerken gebruikers",
+      "gebruikersgroepen": "Bewerken groepen"
+    }
+  }
+}
